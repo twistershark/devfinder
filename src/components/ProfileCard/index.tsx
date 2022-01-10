@@ -62,7 +62,7 @@ export function ProfileCard() {
         <SocialLink available={Boolean(user.location)}>
           <FaMapMarkerAlt /> {user.location || "Not Available"}
         </SocialLink>
-        <SocialLink available={Boolean(user.login)}>
+        <SocialLink available={Boolean(user.blog)}>
           <FaLink /> {user.blog || "Not Available"}
         </SocialLink>
         <SocialLink available={Boolean(user.twitter_username)}>

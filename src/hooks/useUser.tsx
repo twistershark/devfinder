@@ -8,7 +8,7 @@ export interface User {
   following: number;
   public_repos: number;
   location: string;
-  url: string;
+  blog: string;
   twitter_username: string;
   name: string;
   login: string;

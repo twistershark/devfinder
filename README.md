@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to devfinder 👨🏻‍💻</h1>
 <p align="center">
-  <img alt="devfinder" src="https://github.com/twistershark/devfinder/tree/main/docs/1.png" />
+  <img alt="devfinder" src="https://github.com/twistershark/devfinder/blob/main/docs/1.png" />
 </p>
 
 <h1 align="center">
-  <img alt="devfinder" src="https://github.com/twistershark/devfinder/tree/main/docs/2.png" />
+  <img alt="devfinder" src="https://github.com/twistershark/devfinder/blob/main/docs/2.png" />
 </h1>
 
 <h1 align="center">
-  <img alt="devfinder" src="https://github.com/twistershark/devfinder/tree/main/docs/3.png" />
+  <img alt="devfinder" src="https://github.com/twistershark/devfinder/blob/main/docs/3.png" />
 </h1>
 
 ---
@@ -51,7 +51,7 @@ A Github users info searcher application to practice developing apps with NextJS
 ```sh
 
   # Clone the repository
-  $ git clone https://github.com/twistershark/dev.finances.git
+  $ git clone https://github.com/twistershark/devfinder.git
 
   # Enter the repository
   $ cd devfinder

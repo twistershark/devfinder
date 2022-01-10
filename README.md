@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to devfinder 👨🏻‍💻</h1>
 
-<h3>[Live Demo](https://devfinder-rmvcxt18o-twistershark.vercel.app/)</h3>
+<h3 align="center">
+  <a href="https://devfinder-rmvcxt18o-twistershark.vercel.app/">Live Demo</a>
+  </h3>
 
 <p align="center">
   <img alt="devfinder" src="https://github.com/twistershark/devfinder/blob/main/docs/1.png" />
